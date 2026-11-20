@@ -1,0 +1,8 @@
+{
+  "name": "QuizCrafter - University Practice Quiz Generator",
+  "description": "Generate practice quizzes from your university study notes with four answer choices and complete answer keys with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
